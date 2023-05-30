@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.header('st.checkbox')
+st.header('checkbox')
 
 st.write ('What would you like to order?')
 
